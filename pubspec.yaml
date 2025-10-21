@@ -1,10 +1,10 @@
 name: blocker
-description: "A new Flutter project."
+description: "Block internet access for selected apps using GetX state management."
 publish_to: 'HSN Flutter' 
-version: 1.0.0+4
+version: 1.0.0+5
 
 environment:
-  sdk: ^3.8.0
+  sdk: ^3.9.2
 dependencies:
   flutter:
     sdk: flutter
